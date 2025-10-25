@@ -5,5 +5,5 @@ This tool finds the admin area of the sites you select. You should only use it o
 
 
 
---                      --git clone https://github.com/JASEY507/AdminPanelScanner.git && cd AdminPanelScanner && python3 python.py
+--                      [ -d AdminPanelScanner ] && cd AdminPanelScanner && git pull || git clone https://github.com/JASEY507/AdminPanelScanner.git && cd AdminPanelScanner; python3 python.py
 -
