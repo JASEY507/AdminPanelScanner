@@ -286,3 +286,28 @@ Sadece Bu Dağıtımlarda Çalışır.   -----    Only Works on These Distributi
 --
 [ -d AdminPanelScanner ] && cd AdminPanelScanner && git pull || git clone https://github.com/JASEY507/AdminPanelScanner.git && cd AdminPanelScanner; python3 -m venv .venv 2>/dev/null; . .venv/bin/activate 2>/dev/null; pip install --upgrade pip -q 2>/dev/null; pip install colorama requests fake_useragent pysocks urllib3 tqdm aiohttp -q 2>/dev/null; python3 python.py
 -
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<img width="1920" height="1080" alt="Ekran Görüntüsü (83)" src="https://github.com/user-attachments/assets/d159f514-7ff0-47ed-a2ac-6e02551561d5" />
