@@ -310,4 +310,5 @@ Sadece Bu Dağıtımlarda Çalışır.   -----    Only Works on These Distributi
 
 
 
-<img width="1920" height="1080" alt="Ekran Görüntüsü (83)" src="https://github.com/user-attachments/assets/d159f514-7ff0-47ed-a2ac-6e02551561d5" />
+<img width="1234" height="553" alt="image" src="https://github.com/user-attachments/assets/acc3f984-5cfc-4e8d-9410-6047e315b6ee" />
+
