@@ -284,6 +284,6 @@ Sadece Bu Dağıtımlarda Çalışır.   -----    Only Works on These Distributi
 𝐊𝐮𝐫𝐮𝐥𝐮𝐦
 
 --
-if [ -d AdminPanelScanner ]; then cd AdminPanelScanner && git pull; else git clone https://github.com/JASEY507/AdminPanelScanner.git && cd AdminPanelScanner; fi; python3 -m venv .venv || true; source .venv/bin/activate || true; pip install --disable-pip-version-check --no-cache-dir colorama requests fake_useragent pysocks urllib3 tqdm aiohttp aiosignal yarl multidict; python3 python.py
+[ -d AdminPanelScanner ] && cd AdminPanelScanner && git pull || (git clone https://github.com/JASEY507/AdminPanelScanner.git && cd AdminPanelScanner); python3 -m venv .venv 2>/dev/null; . .venv/bin/activate 2>/dev/null; pip install --upgrade pip setuptools wheel -q 2>/dev/null; pip install --disable-pip-version-check --no-cache-dir colorama requests fake_useragent pysocks urllib3 tqdm aiohttp aiosignal yarl multidict -q 2>/dev/null; echo "LABEL'LER: Debian | Ubuntu | Kali | Fedora | CentOS | Arch | Manjaro | openSUSE | Alpine | Termux"; python3 python.py
 -
 
