@@ -5,7 +5,7 @@
 ║                    ModuleArt Ultra v2.0 - PROFESSIONAL                    ║
 ║                    ADVANCED ADMIN PANEL SCANNER                           ║
 ║                                                                           ║
-║  DEVELOPERS: @lll.emirx.38 @omer.17l667 @oixin.r3al                      ║
+║  DEVELOPERS: @lll.emirx.38 @omer.17___ @oixin.r3al                      ║
 ║  20,000+ PATHS | ASYNC BATCH SCANNING | MULTI-LANGUAGE | REPORTING       ║
 ║  AUTHORIZED SECURITY TESTING ONLY                                        ║
 ╚═══════════════════════════════════════════════════════════════════════════╝
