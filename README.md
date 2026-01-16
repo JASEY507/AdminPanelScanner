@@ -309,6 +309,6 @@ Sadece Bu Dağıtımlarda Çalışır.   -----    Only Works on These Distributi
 
 
 
-
+````
 <img width="1234" height="553" alt="image" src="https://github.com/user-attachments/assets/acc3f984-5cfc-4e8d-9410-6047e315b6ee" />
 
